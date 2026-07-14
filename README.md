@@ -1,3 +1,4 @@
+
 # Demo Java WAR Project
 
 This is a simple Maven-based Java web application packaged as a WAR.
