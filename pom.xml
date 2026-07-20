@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>demo-java-project-war</artifactId>
+    <artifactId>demo-java-pro-war</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -24,7 +24,7 @@
     </dependencies>
 
     <build>
-        <finalName>demo-java-project-war</finalName>
+        <finalName>demo-java-pro-war</finalName>
 
     <plugins>
         <plugin>
